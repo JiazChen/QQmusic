@@ -1,3 +1,5 @@
+# QQmusic
+
 ## 难点：进度条 progressBar
 1. 进度条的运动与停止 per的累加 和 lastPer的累加
 2. 拖拽时，per百分比的计算 disX = nowX - left;per = disX / width;
